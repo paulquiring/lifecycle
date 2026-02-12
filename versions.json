@@ -2,5 +2,9 @@
   {
     "version": "main",
     "url": "https://paulquiring.github.io/lifecycle/main/"
+  },
+  {
+    "version": "pr-1",
+    "url": "https://paulquiring.github.io/lifecycle/pr-1/"
   }
 ]
